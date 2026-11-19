@@ -123,7 +123,7 @@ return (
         <p>
           DevOps Testing  <code>CI-CD</code> ESAN Project
         </p> 
-          <p>Prueba de SOftware</p>
+          <p>Prueba de Software - Gabriela Marin</p>
       </header>
       <h1>Registro de Productos</h1>
       {submitting &&
